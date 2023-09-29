@@ -10,3 +10,4 @@ od 2018 \
 **Konsultant ds. wdrożeń**\
 **Asseco Business Solutions S.A**\
 2010 - 2018
+theme: minima
